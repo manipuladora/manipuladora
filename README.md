@@ -1,4 +1,12 @@
-@diesinless
+@diesinless 
+ 
+ <div>
+ <p align="center">
+  <br>
+  <samp>
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">eve</a></b>.
+    <br>python dev<br>
+
 
 
 <div align="center">
@@ -8,4 +16,8 @@
 ![Snake animation](https://github.com/mrczxr/mrczxr/blob/output/github-contribution-grid-snake.svg)
 
  
+
+
+ 
+
 
